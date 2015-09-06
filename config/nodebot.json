@@ -1,0 +1,10 @@
+{
+  "server": "riboflav.in",
+  "nick": "nodebot",
+  "options": {
+    "channels": ["#botdev"],
+    "userName": "nodebot",
+    "realName": "nodebot",
+    "debug": true
+  }
+}
