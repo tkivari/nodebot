@@ -5,8 +5,8 @@ Nodebot is an IRC bot written in nodejs designed to complement pybot
 Installation
 ------------
 
-# dependencies:
+dependencies:
 
-  npm install irc
-  
+    npm install irc
+
 
