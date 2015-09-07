@@ -8,5 +8,7 @@ Installation
 dependencies:
 
     npm install irc
+    npm install restify
+    npm install mongoose
 
-
+database:  mongodb
