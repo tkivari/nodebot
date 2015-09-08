@@ -5,4 +5,4 @@ module.exports = {
     var irc_controller = require('../controllers/nodebot/actions');
     irc_controller.setActions(client);
   }
-}
+};

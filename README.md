@@ -9,6 +9,7 @@ dependencies:
 
     npm install irc
     npm install restify
+    npm install lodash
     npm install mongoose
 
 database:  mongodb
